@@ -11,3 +11,9 @@ Este projeto consiste em instalar e configurar uma máquina virtual (VM).
 7) [Política de Senhas](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_07.md)
 8) [Cron](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_08.md)
 9) [Bonus](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_09.md)
+<br>
+<br>
+<br>
+<br>
+<br>
+Um agradecimento especial ao [Matheus](https://github.com/MatheusCoscia/42born2beroot/) que tinha uma cópia das imagens que fiz durante a instalação e que por um descuido, perdi tudo, apagando o repositório por engano. 
