@@ -1,53 +1,18 @@
-## Configurando a Máquina Virtual
+## Criação da VM e Instalação do Sistema Operacional
 
-<p>A configuração da VM é uma das partes mais simples do projeto e pode ser dividida em duas etapas, sendo elas a instalação de um sistema operacional dentro da VM e sua configuração.</p>
+#### Escolha do Sistema Operacional
 
-#### Escolhendo o Sistema Operacional
+É possível escolher entre dois sistemas Operacionais: Debian ou CentOS. No subject do projeto indica que se não há uma experiência em administração de sistemas, que o mais adequado é optar pelo Debian. Motivo pelo qual eu escolhi este Sistema Operacional.
 
-<p>Caso você não possua um software de virtualização em seu computador é recomendável a utilização do <a href="https://www.virtualbox.org">VirtualBox</a>. Lembre-se de ativar a opção de virtualização na BIOS de seu computador.</p>
-<p>Após da instalação de seu software de virtualização, você deve escolher o sistema operacional com o qual irá criar seu servidor.</p>
-<p>Caso você ainda não possua experiência com esse tipo de atividade é extremamente recomendável utilizar o sistema <a href="https://www.debian.org/download">Linux Debian</a>. Caso você já tenha experiência, sinta-se livre para aventurar-se no sistema <a href="https://www.centos.org/download">Linux CentOs</a>.</p>
-<br>
-<p>Agora é o momento de iniciar a criação de sua Máquina Virtual! Não tem mistério e nenhum segredo mirabolante só é preciso se atentar a algumas etapas.</p>
+O Debian, pode ser baixado através desse link: https://www.debian.org/
 
-> No painel do seu software de virtualização, selecione <b>NOVO</b>, ou precione ctrl + n.
+#### Criação da VM
 
-![image](https://user-images.githubusercontent.com/87319964/137205713-ae3624c4-cb64-440f-9ae5-a33ec3d4d86e.png)
 
-> Escolha o sistema operacional, no nosso caso, usaremos o <b>Linux Debian (64bit)</b>.
 
-![image](https://user-images.githubusercontent.com/87319964/137205861-6d68f559-b123-4348-81f5-793bee1b39fb.png)
+#### Instalação do Sistema Operacional
 
-> Selecione a quantidade de memória a ser utilizada, sendo recomendo entre 1GB ou 2GB.
 
-![image](https://user-images.githubusercontent.com/87319964/137205947-e24fb931-1233-4f2d-ba23-b84c1d79ace9.png)
-
-> Crie um novo disco rígido virtual e clique em criar.
-
-![image](https://user-images.githubusercontent.com/87319964/137206027-61b1bbba-6efc-4d18-b3ac-542e5183f849.png)
-
-> No painel do seu software de virtualização, selecione <b>CONFIGURAÇÕES</b>.
-
-![image](https://user-images.githubusercontent.com/87319964/137205713-ae3624c4-cb64-440f-9ae5-a33ec3d4d86e.png)
-
-> Na aba <b>Armazenamento</b>, clique no ícone <b>Vazio</b> e no canto superior direito selecione o ícone do cd, para que você possa escolher uma nova imagem de disco.
-
-![image](https://user-images.githubusercontent.com/87319964/137206343-9f5b2836-6500-4fd8-8a66-1266bc92d5f4.png)
-
-> Após, na aba <b>Rede</b>, conecte sua VM a <b>Placa em modo Bridge</b>.
-
-![image](https://user-images.githubusercontent.com/87319964/137206441-ff630ccb-c00b-4d6d-a1ad-2e1653975798.png)
-
-<br>
-<p>Ao finalizar essa etapa sua VM está pronta para ser inciado e você pode começar a instalação e a configuração de seu Sistema Operacional.</p><br>
-
-#### Instalação e Configuração do Sistema Operacional
-
-<p>A instalação e configuração do Debian é simples, mas pode dar um pouco de dor de cabeça caso seu software de virtualização esteja desatualizado ou você esqueça sua senha de criptografia.</p>
-<br>
-<p>Para começar a instalação do Debian devemos iniciar nossa Máquina Virtual e escolher o modo de <b>Instalação/Install</b>. Lembre-se de não escolher o modo de Instalação Gráfica, pois está não é permitida.</p>
-<p>Agora você deve informar o idioma da sua máquina, tipo de teclado, localização...</p>
-<p>Após a finalização das etapas acima o jogo começa de verdade! A partir daqui todas as configurações e adições devem seguir o que é pedido no PDF entregue pela 42.</p><br>
 
 > Crie um <b>Hostname</b>, sendo ele seu Login + 42.
 
@@ -239,7 +204,3 @@ Caso você faça a seleção incorreta sua máquina apresentará erros futuros.
 
 ![alt text](https://user-images.githubusercontent.com/82785772/136586555-1bf0dcd2-6d5b-4886-86ef-7be4f6f97d0c.png)
 
-##### CRÉDITOS
-
-<p><a href="https://github.com/vangoncalez/42sp_borntoberoot">vangoncalez</a><br>
-<a href="https://github.com/Matth0s/42_born2beroot/blob/master/Born2beroot.pdf">matth0s</a></p>
