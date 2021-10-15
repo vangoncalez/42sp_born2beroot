@@ -1,3 +1,4 @@
+
 ## Configuração da VM
 
 ### Configuração Básica
@@ -207,5 +208,4 @@ Defina home como: Modo de uso = <b>ext4 "journaling"</b>; <b>Ponto de montagem =
 
 ![alt text](https://user-images.githubusercontent.com/82785772/136586555-1bf0dcd2-6d5b-4886-86ef-7be4f6f97d0c.png)
 
-
-
+[Parte 2]  [Parte 4]
