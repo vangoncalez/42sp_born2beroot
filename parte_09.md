@@ -17,8 +17,6 @@
 
     `sudo ufw allow 80`
     
-    
-    
 <br><br>
 #### MariaDB 
 
