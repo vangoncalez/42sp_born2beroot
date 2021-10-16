@@ -14,4 +14,5 @@ O Debian, pode ser baixado através desse link: https://www.debian.org/
 
 
 
-
+<br><br>
+<< [Parte 1](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_01.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 3](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_03.md) >>
