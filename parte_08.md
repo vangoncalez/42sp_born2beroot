@@ -30,9 +30,9 @@
    | #Sudo | Para contar quantos sudos há no log, podemos usar um grep -c 'COMMAND' <nome do arquivo> |
    
    
-  Para testar o script enquanto o desenvolve basta executá-lo via bash ou sh
+  Para testar o script enquanto o desenvolve basta executá-lo via bash
   
-   `sh scripts/monitoring.sh`
+   `bash scripts/monitoring.sh`
    
 <br><br> 
 
