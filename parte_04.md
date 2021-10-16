@@ -5,7 +5,7 @@
 
 1. Para instalar o SSH.
 
-  `apt install openssh-server`
+   `apt install openssh-server`
 
 2. Verifique a instalação do SSH.
 
