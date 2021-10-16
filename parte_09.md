@@ -1,4 +1,4 @@
-<< [Parte 8](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_08.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Inicial](https://github.com/vangoncalez/42sp_born2beroot) 
+<< [Parte 8](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_08.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 10](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_10.md) >>
 <br><br>
 
 ## Parte 9: Bonus
@@ -193,4 +193,4 @@
     
 
 <br><br>
-<< [Parte 8](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_08.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Inicial](https://github.com/vangoncalez/42sp_born2beroot) 
+<< [Parte 8](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_08.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 10](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_10.md) >>
