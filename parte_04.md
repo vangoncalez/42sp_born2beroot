@@ -13,7 +13,7 @@
 
 3. Configurar o ssh
 
-   `nano etc/ssh/ssh_config`
+   `nano etc/ssh/sshd_config`
    
 4. Retire o comentário da linha 13: #Port 22.
 
