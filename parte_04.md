@@ -27,6 +27,23 @@
 
    `service ssh status`
 
+7. Para verificar o ip da máquina
+
+   `ip addr show`
+   
+   Será o numero IP que aparece no segundo bloco de informações
+   
+8. Para acessar via SSH de outro terminal
+
+   `ssh <username>@<ip-address> -p 4242`
+   
+9. Para deslogar
+
+   `logout`
+   
+   ou 
+   
+   `sair`
 
 <br><br>
 << [Parte 3](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_03.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 5](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_05.md) >>
