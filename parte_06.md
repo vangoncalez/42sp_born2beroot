@@ -45,24 +45,24 @@
 
    `sudo visudo`
 
-   Acrescente as linhas ao arquivo:
+   Acrescente as linhas ao arquivo:<br>  
    
-   Para limitar a 3 tentativas:
-   `Defaults	passwd_tries = 3`
+   Para limitar a 3 tentativas:<br>  
+   `Defaults	passwd_tries = 3`<br>  <br>  
    
-   Para retornar uma mensagem de erro, quando o usuário digitar a senha errada:
-   `Defaults	badpass_message = "Wrong Password, padawan!"`
+   Para retornar uma mensagem de erro, quando o usuário digitar a senha errada:<br>  
+   `Defaults	badpass_message = "Wrong Password, padawan!"`<br>  <br>  
    
-   Para salvar todos os acessos via sudo
-   `Defaults	logfile="/var/log/sudo/sudo.log"`
-   `Defaults	log_input, log_output`
-   `Defaults	iolog_dir="/var/log/sudo"`
+   Para salvar todos os acessos via sudo<br>  
+   `Defaults	logfile="/var/log/sudo/sudo.log"`<br>  
+   `Defaults	log_input, log_output`<br>  
+   `Defaults	iolog_dir="/var/log/sudo"`<br>  <br>  
    
-   Para solicitar TTY
-   `Defaults	requiretty`
+   Para solicitar TTY<br>  
+   `Defaults	requiretty`<br>  <br>  
    
-   Para definir local do sudo
-   `Defaults	secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"`
+   Para definir local do sudo<br>  
+   `Defaults	secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"`<br>  <br>  
   
 <br><br>
 << [Parte 5](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_05.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 7](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_07.md) >>
