@@ -1,3 +1,6 @@
+<< [Parte 1](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_01.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 3](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_03.md) >>
+<br><br>
+
 ## Criação da VM e Instalação do Sistema Operacional
 
 #### Escolha do Sistema Operacional
