@@ -41,12 +41,21 @@
    `apt-get update`
    
    `apt-get install net-tools`
+  <br><br>  
+5. Wall
    
-5. Acesse as configurações do Cron
+   Para usar o wall, basta acrescentar no arquivo de script:
+   
+   wall "
+   <informação a ser impressa na tela>
+   "
+   
+   <br><br> 
+6. Acesse as configurações do Cron
 
    `crontab -e`
 <br><br>    
-6. Acrescente uma regra para que um script seja executado a cada 10 minutos
+7. Acrescente uma regra para que um script seja executado a cada 10 minutos
 
    `*/10 * * * * sh /path/to/script`
  <br><br>   
