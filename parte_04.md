@@ -22,3 +22,7 @@ Na linha 32 teremos co comentário: #PermitRootLogin prohibit-password.
 Por fim verifique se as modificações foram bem sucedidas.
 
 $	service ssh status
+
+
+<br><br>
+<< [Parte 3](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_03.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 5](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_05.md) >>
