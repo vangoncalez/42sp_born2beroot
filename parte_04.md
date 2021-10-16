@@ -1,3 +1,6 @@
+<< [Parte 3](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_03.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 5](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_05.md) >>
+<br><br>
+
 ## Instalação do SSH
 
 1. Para instalar o SSH.
@@ -6,22 +9,23 @@
 
 2. Verifique a instalação do SSH.
 
->dpkg -l | grep ssh
+   `dpkg -l | grep ssh`
 
-Acesse o diretório em que o SSH foi instalado e comece a configurar o programa.
+3. Configurar o ssh
 
-$	nano etc/ssh/ssh_config
-As configurações do SSH são simples e exigem pequenas alterações nas linahs de código já existentes.
+   `nano etc/ssh/ssh_config`
+   
+4. Retire o comentário da linha 13: #Port 22.
 
-Na linha 13 teremos o comentário: #Port 22.
+   `Port 4242`
+   
+5. Altere a linha 32: #PermitRootLogin prohibit-password para    
 
-13	Port 4242
-Na linha 32 teremos co comentário: #PermitRootLogin prohibit-password.
+   `PermitRootLogin no`
+   
+6. Verifique se as alterações foram feitas
 
-32	PermitRootLogin no
-Por fim verifique se as modificações foram bem sucedidas.
-
-$	service ssh status
+   `service ssh status`
 
 
 <br><br>
