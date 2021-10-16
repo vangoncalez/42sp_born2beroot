@@ -1,3 +1,5 @@
+<< [Parte 2](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_02.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 4](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_04.md) >>
+<br><br>
 
 ## Configuração da VM
 
