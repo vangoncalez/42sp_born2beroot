@@ -1,7 +1,7 @@
 << [Parte 3](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_03.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 5](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_05.md) >>
 <br><br>
 
-## Instalação do SSH
+## Parte 4: Instalação do SSH
 
 1. Para instalar o SSH.
 
