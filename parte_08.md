@@ -60,6 +60,10 @@
    `*/10 * * * * sh /path/to/script`
  <br><br>   
  
+8. Exemplo de um script
+      
+      ![image](https://user-images.githubusercontent.com/82785772/137600582-9a885a29-4f55-4015-a0ec-0e1106bcaa39.png)
+
 
 <br><br>
 << [Parte 7](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_07.md) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Parte 9](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_09.md) >>
