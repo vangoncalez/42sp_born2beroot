@@ -14,7 +14,4 @@ Este projeto consiste em instalar e configurar uma máquina virtual (VM).
 10) [Finalização](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_10.md)
 <br>
 <br>
-<br>
-<br>
-<br>
-Um agradecimento especial ao [Matheus](https://github.com/MatheusCoscia/42born2beroot/) que tinha uma cópia das imagens que fiz durante a instalação e que por um descuido, perdi tudo, apagando o repositório por engano. 
+
