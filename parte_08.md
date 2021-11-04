@@ -60,7 +60,7 @@
    `*/10 * * * * sh /path/to/script`
  <br><br>   
  
-8. Exemplo de um script. EDIT: ENCONTREI ALGUNS ERRINHOS NO SCRIPT ABAIXO ANTES DA ENTREGA DO PROJETO. AINDA NÃO TIVE TEMPO PARA FAZER AS ALTERAÇÕES POR AQUI NO GIT!!! Mas serve como exemplo.
+8. Exemplo de um script. EDIT: TEM ALGUNS ERRINHOS NO SCRIPT ABAIXO. AINDA NÃO TIVE TEMPO PARA FAZER AS ALTERAÇÕES POR AQUI NO GIT!!! Mas serve como exemplo.
       
       ![image](https://user-images.githubusercontent.com/82785772/137600582-9a885a29-4f55-4015-a0ec-0e1106bcaa39.png)
 
