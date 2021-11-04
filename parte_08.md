@@ -17,7 +17,7 @@
    | Informação  |     Onde encontrar      |  
    |:---------|:--------------|
    | #Architecture | através do comando uname -a |
-   | #CPU physical | esta info está dentro do arquivo /proc/cpuinfo na linha physical.id |
+   | #CPU physical | esta info está dentro do arquivo /proc/cpuinfo nas linhas indicadas como physical.id ??? | 
    | #vCPU | esta info está dentro do arquivo /proc/cpuinfo na linha processor |
    | #Memory Usage | através do comando free -m |
    | #Disk Usage | através do comando df ?????? |
@@ -60,7 +60,7 @@
    `*/10 * * * * sh /path/to/script`
  <br><br>   
  
-8. Exemplo de um script
+8. Exemplo de um script. EDIT: ENCONTREI ALGUNS ERRINHOS NO SCRIPT ABAIXO ANTES DA ENTREGA DO PROJETO. AINDA NÃO TIVE TEMPO PARA FAZER AS ALTERAÇÕES POR AQUI NO GIT!!! Mas serve como exemplo.
       
       ![image](https://user-images.githubusercontent.com/82785772/137600582-9a885a29-4f55-4015-a0ec-0e1106bcaa39.png)
 
