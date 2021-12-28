@@ -1,4 +1,4 @@
-## Born2beroot
+# Born2beroot
 
 ## Projeto elaborado em C na formação 42 (https://www.42sp.org.br/)
 Este projeto consiste em instalar e configurar uma máquina virtual (VM). 
