@@ -1,5 +1,6 @@
 ## Born2beroot
 
+## Projeto elaborado em C na formação 42 (https://www.42sp.org.br/)
 Este projeto consiste em instalar e configurar uma máquina virtual (VM). 
 
 01) [Máquina Virtual e Virtual Box](https://github.com/vangoncalez/42sp_born2beroot/blob/main/parte_01.md)
@@ -15,3 +16,4 @@ Este projeto consiste em instalar e configurar uma máquina virtual (VM).
 <br>
 <br>
 
+![image](https://user-images.githubusercontent.com/82785772/147578054-b7d4ce6b-5237-4b72-9cc1-4563aacdb6e5.png)
